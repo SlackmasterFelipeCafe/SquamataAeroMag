@@ -41,9 +41,7 @@
         <southbc>{southbc}</southbc>
       </bounding>
     </spdom>
-    <keywords>
-      {keywords}
-    </keywords>
+ {keywords}
     <accconst>{accconst}</accconst>
     <useconst>{useconst}</useconst>
     <ptcontac>
@@ -81,9 +79,7 @@
         <vertaccr>{vertaccr}</vertaccr>
       </vertacc>
     </posacc>
-    <lineage>
-      {lineage}
-    </lineage>
+ {lineage}
   </dataqual>
   <spdoinfo>
     <direct>Vector</direct>
@@ -130,8 +126,6 @@
       </cntinfo>
     </distrib>
     <distliab>{distliab}</distliab>
-    <stdorder>{stdorder}
-    </stdorder>
   </distinfo>
   <metainfo>
     <metd>{metd}</metd>
